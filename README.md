@@ -1,4 +1,4 @@
-# Python-Beginner-Projects
+# Fibonacci Calculator
 A collection of projects made in python to help me learn python
 
 I made this program because I wanted to see my limited python skills at work
